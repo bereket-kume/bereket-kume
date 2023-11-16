@@ -1,6 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Bereket</h1>
-    <img src="https://www.zdnet.com/a/img/resize/a0dcec40a8cd8d2e1b3a9e12a05c2819622d20be/2021/07/19/8a337c80-5ed6-43a1-98fb-b981d420890f/programming-languages-shutterstock-1680857539.jpg?auto=webp&fit=crop&height=1200&width=1200" height=""alt="">
 
 <h3 align="center">A passionate web developer from Ethiopia</h3>
 
