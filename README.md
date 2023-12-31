@@ -5,11 +5,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bereket-kume&label=Profile%20views&color=0e75b6&style=flat" alt="bereket-kume" /> </p>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **software  engineering**
 
-- 👯 I’m looking to collaborate on **full stack development**
+- 👯 I’m looking to collaborate on **software development**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **software**
 
 - 📫 How to reach me **bereketkume@gmail.com**
 
