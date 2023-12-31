@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Bereket</h1>
 
-<h3 align="center">A passionate web developer from Ethiopia</h3>
+<h3 align="center">A passionate Software developer from Ethiopia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bereket-kume&label=Profile%20views&color=0e75b6&style=flat" alt="bereket-kume" /> </p>
 
