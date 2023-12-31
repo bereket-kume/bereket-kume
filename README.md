@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bereket-kume&label=Profile%20views&color=0e75b6&style=flat" alt="bereket-kume" /> </p>
 
-- 🌱 I’m currently learning **software  engineering**
+- 🌱 I’m currently learning **software  engineering at ALX**
 
 - 👯 I’m looking to collaborate on **software development**
 
