@@ -27,6 +27,7 @@
 <img src="https://flask.palletsprojects.com/en/2.3.x/_images/flask-logo.png" alt="flask" width="40" height="40"/>
 <img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" alt="mysql" width="40" height="40"/>
 <img src="https://www.postgresql.org/media/img/about/press/elephant.png" alt="postgresql" width="40" height="40"/>
+<img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="40" height="40"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bereket-kume&show_icons=true&locale=en&layout=compact" alt="bereket-kume" /></p>
