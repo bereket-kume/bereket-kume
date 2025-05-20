@@ -13,10 +13,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 I'm a Software Engineering student at **Adama Science and Technology University**
+- 🎓 I'm a Software Engineering student at **Adama Science and Technology University** (current)
 - 🧠 Backend Developer at **Recite Labs**
 - 💼 Former Backend Intern at **1888 EC**
-- 🎯 Trainee at **African to Silicon Valley**
+- 🎯 Trainee at **African to Silicon Valley** (current)
 - 💻 Passionate about backend systems, AI applications, and open-source projects
 - 🌱 Always learning new tools, frameworks, and technologies
 - 🚀 Currently diving deeper into **Generative AI** and **Kubernetes**.
@@ -35,8 +35,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=bereket-kume&show_icons=true&theme=tokyonight" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=bereket-kume&theme=tokyonight" />
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=bereket-kume&show_icons=true&theme=tokyonight" alt="Bereket Kume's GitHub Stats" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=bereket-kume&theme=tokyonight" alt="Bereket Kume's GitHub Streak" />
 </p>
 
 <p align="center">
@@ -50,18 +50,23 @@
 - 💬 **[Connect Space](http://13.51.242.2:5173/)**
   [![Live Demo](https://img.shields.io/badge/Live%20Demo-blue?style=for-the-badge)](http://13.51.242.2:5173/)
   <br>
-  <img src="https://img.shields.io/badge/NestJS-red?style=flat&logo=nestjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-red?style=flat&logo=nestjs&logoColor=white" alt="NestJS" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" />
   <br>
   A collaborative platform for seamless user communication and meaningful interaction.
+
+- 🏥 **AI Health Assistant App**
+  <br>
+  A mobile application designed to help users chat with an AI about their health, find nearby hospitals, and access first aid guidance.
+  *(Add badges for relevant tech stack if you have a deployed version or clear technologies in mind, e.g., React Native, Flask/Django for AI backend, TensorFlow/PyTorch, etc.)*
 
 - 🛒 **[Marketplace Project](http://13.60.105.59:5173/)**
   [![Live Demo](https://img.shields.io/badge/Live%20Demo-blue?style=for-the-badge)](http://13.60.105.59:5173/)
   <br>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL" />
   <br>
   A responsive platform for product listings, chat, user registration, and secure payments.
   <br>
@@ -78,9 +83,9 @@
 
 ### 🎓 Education
 
-- 🎓 BSc in Software Engineering — Adama Science and Technology University
+- 🎓 BSc in Software Engineering — Adama Science and Technology University (current)
 - 🧑‍💻 ALX Software Engineering Program (2023 – 2024)
-- 🌍 Trainee — African to Silicon Valley
+- 🌍 Trainee — African to Silicon Valley (current)
 
 ---
 
