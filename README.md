@@ -1,67 +1,107 @@
-<!-- Animated Header -->
+<h1 align="center">Hi 👋, I'm Bereket Kume</h1>
+<h3 align="center">🚀 Passionate Software Engineer | Backend Developer | AI Enthusiast</h3>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=F78C6C&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Bereket+Kume+👋;Backend+Developer+%7C+AI+Explorer+%7C+Tech+Lover;Building+beautiful+things+with+code+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Backend+Developer+%7C+NestJS+%7C+Docker;AI+Curious+Mind+%7C+Fast+Learner+%F0%9F%94%A5;Open+Source+Contributor+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://profile-counter.glitch.me/bereket-kume/count.svg" />
 </p>
 
 ---
 
-## 🚀 About Me
+### 🧑‍💻 About Me
 
-```ts
-const bereket = {
-  role: "Backend Developer",
-  currently: "Recite Labs",
-  previously: "1888 EC Intern",
-  stack: ["NestJS", "Docker", "Redis", "Django"],
-  traits: ["Curious", "Fast Learner", "Collaborative"],
-  motto: "Code hard, dream big!"
-}
-🔭 I'm currently working as a Backend Developer at Recite Labs
+- 🎓 I'm a Software Engineering student at **Adama Science and Technology University**
+- 🧠 Backend Developer at **Recite Labs**
+- 💼 Former Backend Intern at **1888 EC**
+- 🎯 Trainee at **African to Silicon Valley**
+- 💻 Passionate about backend systems, AI applications, and open-source projects
+- 🌱 Always learning new tools, frameworks, and technologies
+- 🚀 Currently diving deeper into **Generative AI** and **Kubernetes**.
+- 🌍 I love building things that positively impact the community
 
-👨‍💻 Previously interned at 1888 EC
+---
 
-🌱 Learning Cloud Architecture, GraphQL, and Microservices
+### 🛠️ Tech Stack
 
-🧑‍🎓 Software Engineering student at Adama Science and Technology University
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,nestjs,flask,django,laravel,postgres,mysql,mongodb,docker,redis,linux,git,github,vscode" />
+</p>
 
-✈️ Trainee at African to Silicon Valley
+---
 
-⚡ Fun fact: I once debugged a problem that turned out to be... missing a semicolon 😅
+### 📈 GitHub Stats
 
-🛠️ My Tech Arsenal
-<p align="center"> <img src="https://skillicons.dev/icons?i=ts,js,python,nestjs,django,flask,laravel,postgres,mongodb,mysql,redis,docker,nginx,linux,git,github,vscode" /> </p>
-✨ Featured Projects
-🛍️ Marketplace App
-A platform to buy & sell with live chat, product listing, and secure payments
-🔗 Live Demo
-🛠 Tech Stack: Django REST + React + Tailwind
+<p align="center">
+  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=bereket-kume&show_icons=true&theme=tokyonight" />
+  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=bereket-kume&theme=tokyonight" />
+</p>
 
-💬 Connect Space
-Real-time collaboration and user interaction platform
-🔗 Live Demo
-🛠 Tech Stack: NestJS + Redis + WebSocket + React
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=bereket-kume&theme=tokyonight" alt="GitHub Trophies" />
+</p>
 
-💼 Experience
-yaml
-Copy
-Edit
-- 2024–Now: Backend Developer at Recite Labs 🚀
-- 2024: Backend Intern at 1888 EC 🧠
-🎓 Education & Learning
-js
-Copy
-Edit
-[
-  "🎓 BSc in Software Engineering - Adama Science and Technology University",
-  "📚 ALX Software Engineering Program",
-  "🚀 African to Silicon Valley Trainee"
-]
-📊 GitHub Stats & Activity
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bereket-kume&show_icons=true&theme=tokyonight&count_private=true" width="47%" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=bereket-kume&theme=tokyonight" width="47%" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=bereket-kume&theme=react-dark" width="95%" /> </p>
-📬 Let's Connect!
-<p align="center"> <a href="mailto:bereketkume@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://linkedin.com/in/bereket-kume-133a0a285"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/bereket-kume"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/> </a> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=bereket-kume&style=for-the-badge&color=blue" /> </p> <p align="center"> <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="300" /> </p> ```
+---
+
+### 🔥 Recent Projects
+
+- 💬 **[Connect Space](http://13.51.242.2:5173/)**
+  [![Live Demo](https://img.shields.io/badge/Live%20Demo-blue?style=for-the-badge)](http://13.51.242.2:5173/)
+  <br>
+  <img src="https://img.shields.io/badge/NestJS-red?style=flat&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
+  <br>
+  A collaborative platform for seamless user communication and meaningful interaction.
+
+- 🛒 **[Marketplace Project](http://13.60.105.59:5173/)**
+  [![Live Demo](https://img.shields.io/badge/Live%20Demo-blue?style=for-the-badge)](http://13.60.105.59:5173/)
+  <br>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
+  <br>
+  A responsive platform for product listings, chat, user registration, and secure payments.
+  <br>
+  *Tech:* React, Django, REST APIs
+
+---
+
+### 🧠 Experience
+
+- 🏢 **Backend Developer** — Recite Labs (Present)
+- 👨‍💻 **Backend Intern** — 1888 EC (2024)
+
+---
+
+### 🎓 Education
+
+- 🎓 BSc in Software Engineering — Adama Science and Technology University
+- 🧑‍💻 ALX Software Engineering Program (2023 – 2024)
+- 🌍 Trainee — African to Silicon Valley
+
+---
+
+### 📜 Certifications
+
+- 🎓 ALX Software Engineering (Founder Academy)
+
+---
+
+### 📫 Connect with Me
+
+<p align="left">
+  Let's connect and build something amazing together!
+  <br>
+  <a href="mailto:bereketkume@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/bereket-kume-133a0a285"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/bereket-kume"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+### ✨ Fun Fact
+
+> 💡 I can debug code faster than I can decide what to eat for dinner – and that's saying something!
