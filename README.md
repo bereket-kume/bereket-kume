@@ -31,18 +31,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img width="47%" src="https://github-readme-stats.vercel.app/api?username=bereket-kume&show_icons=true&theme=tokyonight" alt="Bereket Kume's GitHub Stats" />
-  <img width="47%" src="https://github-readme-streak-stats.herokuapp.com/?user=bereket-kume&theme=tokyonight" alt="Bereket Kume's GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bereket-kume&theme=tokyonight" alt="GitHub Trophies" />
-</p>
-
----
 
 ### 🔥 Recent Projects
 
