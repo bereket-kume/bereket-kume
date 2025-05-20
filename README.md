@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bereket Kume</h1>
-<h3 align="center">🚀 Passionate Software Engineer |    Backend Developer | AI Enthusiast</h3>
-
+<h3 align="center">🚀 Passionate Software Engineer | Backend Developer | AI Enthusiast</h3>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Backend+Developer+%7C+NestJS+%7C+Docker;AI+Curious+Mind+%7C+Fast+Learner+%F0%9F%94%A5;Open+Source+Contributor+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
