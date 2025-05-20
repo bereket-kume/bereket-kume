@@ -83,7 +83,6 @@
 
 - 🏢 **Backend Developer** — Recite Labs (Present)
 - 👨‍💻 **Backend Intern** — 1888 EC (2024)
-- ☁️ **Cloud Enthusiast (AWS)** — Exploring and learning AWS cloud services.
 
 ---
 
@@ -97,7 +96,7 @@
 
 ### 📜 Certifications
 
-- 🎓 ALX Software Engineering (Founder Academy)
+- 🎓 ALX Software Engineering
 
 ---
 
