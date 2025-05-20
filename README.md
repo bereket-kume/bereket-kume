@@ -15,11 +15,10 @@
 
 - 🎓 I'm a Software Engineering student at **Adama Science and Technology University** (current)
 - 🧠 Backend Developer at **Recite Labs**
-- 💼 Former Backend Intern at **1888 EC**
 - 🎯 Trainee at **African to Silicon Valley** (current)
 - 💻 Passionate about backend systems, AI applications, and open-source projects
 - 🌱 Always learning new tools, frameworks, and technologies
-- 🚀 Currently diving deeper into **Generative AI** and **Kubernetes**.
+- 🚀 Currently diving deeper into **Generative AI**, **AWS** and **Kubernetes**.
 - 🌍 I love building things that positively impact the community
 
 ---
