@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Bereket Kume</h1>
-<h3 align="center">🚀 Passionate Software Engineer | Backend Developer | AI Enthusiast</h3>
+<h3 align="center">🚀 Passionate Software Engineer | 💻 Backend Developer | AI Enthusiast</h3>
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Backend+Developer+%7C+NestJS+%7C+Docker;AI+Curious+Mind+%7C+Fast+Learner+%F0%9F%94%A5;Open+Source+Contributor+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/bereket-kume/count.svg" />
+  <img src="https://profile-counter.glitch.me/bereket-kume/count.svg" alt="Profile views" />
 </p>
 
 ---
@@ -26,7 +27,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,nestjs,flask,django,laravel,postgres,mysql,mongodb,docker,redis,linux,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,nestjs,flask,django,laravel,postgres,mysql,mongodb,docker,redis,linux,git,github,vscode" alt="My Tech Stack" />
 </p>
 
 ---
@@ -58,7 +59,7 @@
 - 🏥 **AI Health Assistant App**
   <br>
   A mobile application designed to help users chat with an AI about their health, find nearby hospitals, and access first aid guidance.
-  *(Add badges for relevant tech stack if you have a deployed version or clear technologies in mind, e.g., React Native, Flask/Django for AI backend, TensorFlow/PyTorch, etc.)*
+  *(Consider adding relevant tech stack badges here once you finalize the technologies, e.g., React Native, Python, TensorFlow.)*
 
 - 🛒 **[Marketplace Project](http://13.60.105.59:5173/)**
   [![Live Demo](https://img.shields.io/badge/Live%20Demo-blue?style=for-the-badge)](http://13.60.105.59:5173/)
@@ -99,9 +100,9 @@
 <p align="left">
   Let's connect and build something amazing together!
   <br>
-  <a href="mailto:bereketkume@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/bereket-kume-133a0a285"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/bereket-kume"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white"/></a>
+  <a href="mailto:bereketkume@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/bereket-kume-133a0a285"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/bereket-kume"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
 
 ---
