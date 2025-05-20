@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Passionate Software Engineer | 💻 Backend Developer | AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bereket-kume&theme=react&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bereket-kume&theme=react&hide_border=true" alt="Bereket Kume's GitHub Activity Graph" />
 </p>
 
 <p align="center">
@@ -27,7 +27,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,nestjs,flask,django,laravel,postgres,mysql,mongodb,docker,redis,linux,git,github,vscode" alt="My Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,django,laravel,react,tailwind,python,typescript,php,javascript,postgres,mysql,mongodb,docker,redis,linux,git,github,vscode,aws" alt="My Tech Stack" />
 </p>
 
 ---
@@ -47,6 +47,8 @@
 
 ### 🔥 Recent Projects
 
+### 🔥 Recent Projects
+
 - 💬 **[Connect Space](http://13.51.242.2:5173/)**
   [![Live Demo](https://img.shields.io/badge/Live%20Demo-blue?style=for-the-badge)](http://13.51.242.2:5173/)
   <br>
@@ -58,8 +60,12 @@
 
 - 🏥 **AI Health Assistant App**
   <br>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Generative%20AI-FF9900?style=flat&logo=openai&logoColor=white" alt="Generative AI" />
+  <br>
   A mobile application designed to help users chat with an AI about their health, find nearby hospitals, and access first aid guidance.
-  *(Consider adding relevant tech stack badges here once you finalize the technologies, e.g., React Native, Python, TensorFlow.)*
 
 - 🛒 **[Marketplace Project](http://13.60.105.59:5173/)**
   [![Live Demo](https://img.shields.io/badge/Live%20Demo-blue?style=for-the-badge)](http://13.60.105.59:5173/)
@@ -71,13 +77,13 @@
   A responsive platform for product listings, chat, user registration, and secure payments.
   <br>
   *Tech:* React, Django, REST APIs
-
 ---
 
 ### 🧠 Experience
 
 - 🏢 **Backend Developer** — Recite Labs (Present)
 - 👨‍💻 **Backend Intern** — 1888 EC (2024)
+- ☁️ **Cloud Enthusiast (AWS)** — Exploring and learning AWS cloud services.
 
 ---
 
