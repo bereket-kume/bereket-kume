@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bereket Kume</h1>
-<h3 align="center">🚀 Passionate Software Engineer | 💻 Backend Developer | AI Enthusiast</h3>
+<h3 align="center">🚀 Full-stack Developer | 💻 Backend Developer | AI Enthusiast</h3>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=bereket-kume&theme=react&hide_border=true" alt="Bereket Kume's GitHub Activity Graph" />
