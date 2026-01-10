@@ -11,13 +11,10 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 I'm a Software Engineering student at **Adama Science and Technology University** 
-- 🧠 Backend Developer at **Recite Labs**
-- 🎯 Trainee at **African to Silicon Valley** 
-- 💻 Passionate about backend systems, AI applications, and open-source projects
-- 🌱 Always learning new tools, frameworks, and technologies
-- 🚀 Currently diving deeper into **Generative AI**, **AWS** and **Kubernetes**.
-- 🌍 I love building things that positively impact the community
+I am a passionate full-stack developer with experience building scalable backend systems and dynamic web applications. I enjoy solving complex problems, designing efficient workflows, and turning ideas into functional products.  
+
+I thrive on learning new technologies and applying them to real-world challenges, from AI-driven applications to cloud-based deployments. My goal is to create solutions that are not only technically sound but also have a positive impact on users and the community.
+
 
 ---
 
