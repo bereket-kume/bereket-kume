@@ -64,7 +64,7 @@ I thrive on learning new technologies and applying them to real-world challenges
 ### 🧠 Experience
 
 - 🏢 **Backend Developer** — Recite Labs (Present)
-- 👨‍💻 **Backend Intern** — 1888 EC (2024)
+- 👨‍💻 **Backend Intern** — 1888 EC
 
 ---
 
