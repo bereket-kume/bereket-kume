@@ -27,7 +27,7 @@ Currently focused on AI-powered applications, cloud deployments, and building im
 
 ## 🔥 Featured Projects
 
-### 🌍 [Africa Luxury Booking Platform](#)
+### 🌍 [Africa Luxury Booking Platform](https://play.africa.luxury)
 Luxury booking platform with a customer-facing app and advanced admin dashboard.
 
 **Highlights:**
@@ -36,31 +36,28 @@ Luxury booking platform with a customer-facing app and advanced admin dashboard.
 - Payment integration
 - AWS deployment with CI/CD pipelines
 
-**Tech:** Next.js (TypeScript), NestJS, PostgreSQL, AWS
-Link: https://play.africa.luxury
+**Tech:** Next.js (TypeScript), NestJS, PostgreSQL
 
 ---
 
-### 📱 [Damkase Health & Community App](#)
+### 📱 [Damkase Health & Community App](https://play.google.com/store/apps/details?id=me.kibru.damakese&pcampaignid=web_share)
 Mobile health and community platform enabling secure discussions and content sharing.
 
-**Tech:** React Native, NestJS, MongoDB  
-Link: https://play.google.com/store/apps/details?id=me.kibru.damakese&pcampaignid=web_share
+**Tech:** React Native, NestJS, MongoDB
+
 ---
 
-### 💬 [Connect Space](#)
+### 💬 [Connect Space](https://github.com/bereket-kume/portfolio-project-specialization)
 Collaborative communication platform focused on seamless user interaction.
 
 **Tech:** NestJS, MongoDB, Docker
-Link: https://github.com/bereket-kume/portfolio-project-specialization
 
 ---
 
-### 🛒 [Marketplace Platform](#)
+### 🛒 [Marketplace Platform](https://github.com/bereket-kume/Django)
 Responsive e-commerce platform with product listings, chat, authentication, and secure payments.
 
 **Tech:** React, Django, PostgreSQL, REST APIs
-Link: https://github.com/bereket-kume/Django
 
 ---
 
@@ -73,15 +70,15 @@ Link: https://github.com/bereket-kume/Django
 
 ## 🎓 Education
 
-- 🎓 BSc in Software Engineering — Adama Science and Technology University (Current)  
-- 🧑‍💻 ALX Software Engineering Program (2023 – 2024)  
-- 🌍 African to Silicon Valley — Trainee (Current)  
+- BSc in Software Engineering — Adama Science and Technology University
+- ALX Software Engineering Program (2023 – 2024)  
+- African to Silicon Valley — Trainee
 
 ---
 
 ## 📜 Certification
 
-- 🎓 ALX Software Engineering Certificate  
+- ALX Software Engineering Certificate  
 
 ---
 
