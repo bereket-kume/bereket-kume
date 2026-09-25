@@ -2,83 +2,112 @@
 <h3 align="center">🚀 Full-Stack Developer | ⚙️ Backend Specialist | 🤖 AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/bereket-kume/count.svg" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=bereket-kume&color=blueviolet" alt="Profile views" />
 </p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I’m a Full-Stack Developer passionate about building scalable backend systems and modern web applications.
+I'm a Full-Stack Developer with 3+ years of experience building scalable backend systems and modern web applications.
 
-I specialize in designing clean architectures, efficient APIs, and production-ready systems. I enjoy solving complex problems, optimizing workflows, and turning ideas into reliable digital products.
+I specialize in designing clean architectures, efficient APIs, and production-ready systems using NestJS, React, and AWS. I enjoy solving complex problems, optimizing workflows, and turning ideas into reliable digital products used by real users — including a booking platform now serving 10,000+ users.
 
-Currently focused on AI-powered applications, cloud deployments, and building impactful software that delivers real value.
+Currently focused on AI-powered applications, cloud deployments, and building software that delivers real value. I also bring hands-on experience evaluating and training large language models on code generation tasks.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,django,laravel,react,tailwind,python,typescript,php,javascript,postgres,mysql,mongodb,docker,redis,linux,git,github,vscode,aws" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=nodejs,nestjs,express,go,react,tailwind,python,typescript,javascript,postgres,mysql,redis,docker,linux,git,github,vscode,aws" alt="Tech Stack" />
 </p>
 
 ---
 
 ## 🔥 Featured Projects
 
-### 🌍 [Africa Luxury Booking Platform](https://play.africa.luxury)
-Luxury booking platform with a customer-facing app and advanced admin dashboard.
+### 🌍 [Africa Luxury Booking Platform](https://africa.luxury)
+Full-stack booking platform for hotels, cars, and trips, serving 10,000+ users.
 
 **Highlights:**
-- Secure authentication & role-based access
-- End-to-end booking workflows (rooms, cars, trips)
-- Payment integration
+- Car-rental functionality alongside hotel and trip booking workflows
+- Online payments and availability management, improving booking workflow efficiency by 30%
+- Admin dashboard centralizing platform management and operational workflows
 - AWS deployment with CI/CD pipelines
 
-**Tech:** Next.js (TypeScript), NestJS, PostgreSQL
+**Tech:** React/Next.js, NestJS, PostgreSQL, AWS, Docker
 
 ---
 
-### 📱 [Damkase Health & Community App](https://play.google.com/store/apps/details?id=me.kibru.damakese&pcampaignid=web_share)
-Mobile health and community platform enabling secure discussions and content sharing.
+### 📈 [Trading Copilot (AI Trading Hub)](https://www.bekapi01.com/)
+AI-powered trading platform for Forex traders focused on structured trading analysis.
 
-**Tech:** React Native, NestJS, MongoDB
+**Highlights:**
+- Multi-timeframe market bias with session awareness
+- Trade journaling, trading calendar, and setup-tracking features
+- Analytics tools for reviewing historical trades and improving strategy execution
 
----
-
-### 💬 [Connect Space](https://github.com/bereket-kume/portfolio-project-specialization)
-Collaborative communication platform focused on seamless user interaction.
-
-**Tech:** NestJS, MongoDB, Docker
+**Tech:** React, NestJS, PostgreSQL
 
 ---
 
-### 🛒 [Marketplace Platform](https://github.com/bereket-kume/Django)
-Responsive e-commerce platform with product listings, chat, authentication, and secure payments.
+### 🏥 Damakese — AI-Powered Health Application
+Backend developer role integrating AI into a health platform.
 
-**Tech:** React, Django, PostgreSQL, REST APIs
+**Highlights:**
+- Integrated AI models for harmful-text detection and personalized health-plan recommendations
+- Developed backend APIs connecting AI-powered features with the application
+- Optimized AI integration workflows, improving response processing efficiency by 20%
+
+**Tech:** NestJS, PostgreSQL, AI/LLM APIs
+
+---
+
+### 🚚 RouteMe — Transportation & Route Management Platform
+Platform with mobile apps and an admin dashboard for managing routes, users, bookings, and payments.
+
+**Highlights:**
+- Centralized management for routes, users, bookings, and payments
+- Backend APIs supporting mobile and administrative workflows
+- Optimized platform workflows, improving operational efficiency by 25%
+
+**Tech:** NestJS, React, PostgreSQL
 
 ---
 
 ## 🧠 Experience
 
-- **Full-Stack Developer** — Recite Labs  
-- **Backend Developer** — 1888 EC  
+**Full-Stack Developer** — Recite Labs *(Jan 2023 – Present)*
+Building and maintaining scalable full-stack applications with NestJS, React.js, PostgreSQL, and AWS, supporting 10,000+ users across production platforms. Automated deployment workflows with Docker and CI/CD, reducing deployment time by 40%.
+
+**AI Trainer & Data Annotation Specialist** — AfterQuery *(Feb 2026 – Aug 2026)*
+Evaluated 500+ AI-generated responses for correctness, reasoning quality, and code quality. Identified edge cases and model failure patterns, contributing to a 20% improvement in evaluation quality.
+
+**AI Evaluator / AI Training Contributor** — Revelo *(2025 – 2026)*
+Evaluated 300+ AI-generated code solutions for correctness, efficiency, and reasoning quality, using Claude-based workflows to improve programming-related model outputs.
+
+**Software Engineer (Backend)** — A2SV | Africa to Silicon Valley *(Jan 2025 – Apr 2026)*
+Developed backend services and REST APIs using Go and Gin for real-world software projects.
+
+**Backend Developer** — Pneus Quebec *(Aug 2025 – Sep 2025)*
+Built and optimized e-commerce and warehouse backend systems using NestJS; implemented CI/CD pipelines that reduced manual deployment effort by 40%.
+
+**Backend Developer** — 1888 EC *(Jul 2024 – Sep 2024)*
+Built backend services with NestJS and Drizzle ORM; improved API response performance by 30% through Redis caching and backend optimization.
 
 ---
 
 ## 🎓 Education
 
-- BSc in Software Engineering — Adama Science and Technology University
-- ALX Software Engineering Program (2023 – 2024)  
-- African to Silicon Valley — Trainee
+- BSc in Software Engineering — Adama Science and Technology University *(2021 – 2026)*
+- ALX Software Engineering Program *(2023 – 2024)*
 
 ---
 
 ## 📜 Certification
 
-- ALX Software Engineering Certificate  
+- ALX Software Engineering Program — ALX
 
 ---
 
@@ -88,7 +117,7 @@ Responsive e-commerce platform with product listings, chat, authentication, and 
   <a href="mailto:bereketkume@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/bereket-kume-133a0a285">
+  <a href="https://linkedin.com/in/bereket-kume">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/bereket-kume">
@@ -98,6 +127,15 @@ Responsive e-commerce platform with product listings, chat, authentication, and 
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=bereket-kume&show_icons=true&theme=default" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bereket-kume&layout=compact" width="49%" />
+</p>
+
+---
+
 ## ✨ Fun Fact
 
-> 💡 I debug faster than I decide what to eat — and that’s saying something.
+> 💡 I debug faster than I decide what to eat — and that's saying something.
